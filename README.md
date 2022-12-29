@@ -1,8 +1,7 @@
 # EmojiPedia
 
 ## Output:
-![image](https://user-images.githubusercontent.com/69500819/209955718-bbf496ec-93de-41fd-9b0d-f1c7face05c1.png)
-
+![image](https://user-images.githubusercontent.com/69500819/209969416-72ab4893-5070-4530-a7c1-423e162903b4.png)
 
 # Getting Started with Create React App
 
