@@ -1,3 +1,9 @@
+# EmojiPedia
+
+## Output:
+![image](https://user-images.githubusercontent.com/69500819/209955718-bbf496ec-93de-41fd-9b0d-f1c7face05c1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
